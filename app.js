@@ -4,7 +4,7 @@ const output = document.querySelector('.output');
 const output1=document.createElement('div');
 
 loadData();
-window.setInterval(loadData,10000);
+window.setInterval(loadData,1000);
 output.append(output1);
 
 function loadData()
