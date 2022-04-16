@@ -224,7 +224,7 @@ body{
     margin-left: 2rem;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 760px) {
     .toggle-button{
         display:flex;
 
