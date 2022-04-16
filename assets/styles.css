@@ -243,6 +243,7 @@ body{
     .navbar-links ul {
         flex-direction: column;
         width:100%;
+        display:none;
 
     }
 
