@@ -224,7 +224,7 @@ body{
     margin-left: 2rem;
 }
 
-@media (max-width: 760px) {
+@media (max-width: 600px) {
     .toggle-button{
         display:flex;
 
@@ -298,6 +298,7 @@ body{
         font-family: Arial, Helvetica, sans-serif;
         Font-style:normal;
         font-weight: bold;
+        font-size: medium;
         margin-top:4rem;
         margin-left: .6rem;
     }
