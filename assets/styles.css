@@ -224,7 +224,7 @@ body{
     margin-left: 2rem;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 200px) {
     .toggle-button{
         display:flex;
 
@@ -249,7 +249,6 @@ body{
     .navbar-links li {
         text-align: center;
        
-
     }
 
     .navbar-links li a {
